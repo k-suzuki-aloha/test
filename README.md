@@ -9,6 +9,6 @@
 
 ## H2
 
-~~~php:tt.php
+~~~php
 $this->err = false;
 ~~~
