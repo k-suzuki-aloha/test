@@ -9,6 +9,6 @@
 
 ## H2
 
-~~~php :qiita.rb
+~~~php:test.php
 $this->err = false;
 ~~~
