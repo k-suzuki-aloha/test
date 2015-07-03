@@ -1,9 +1,8 @@
 # HELLO Github
 
-*test
+* test
 
-*test
-
-*test
+* test
+* test
 
 ## H2
