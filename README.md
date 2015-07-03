@@ -9,6 +9,6 @@
 
 ## H2
 
-~~~php:test.php
+~~~php
 $this->err = false;
 ~~~
