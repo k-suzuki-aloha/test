@@ -16,5 +16,5 @@ $this->err = false;
 -----------------------
     abcd
     
- H3blockquote
+ H3.blockquote
  > foobar
