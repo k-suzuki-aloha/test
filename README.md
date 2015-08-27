@@ -18,5 +18,10 @@ $this->err = false;
 -----------------------
 
 ### H3
+
 > foo
 > > bar
+
+- [x] git add
+- [x] git commit
+- [ ] git push
